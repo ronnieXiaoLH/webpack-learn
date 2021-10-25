@@ -1,0 +1,14 @@
+@import './test.css';
+@import '../font/iconfont.css';
+
+.content {
+  color: #12345678;
+  /* user-select: none; */
+}
+
+.bg-img {
+  width: 200px;
+  height: 200px;
+  background-image: url('../img/2.jpg');
+  background-size: 100% 100%;
+}
